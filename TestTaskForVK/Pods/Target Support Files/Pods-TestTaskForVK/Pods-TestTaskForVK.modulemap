@@ -1,0 +1,6 @@
+framework module Pods_TestTaskForVK {
+  umbrella header "Pods-TestTaskForVK-umbrella.h"
+
+  export *
+  module * { export * }
+}
